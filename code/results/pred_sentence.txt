@@ -1,0 +1,225 @@
+0
+From the AMERICAN (CORRECT, label: B-prod)  MERCURY (WRONG, label: I-prod)  . 
+---------------------------------------------------------------------
+295
+He fur ¬ ther states that he was educated in Green (WRONG, label: B-loc)  County (WRONG, label: I-loc)  Georgia (WRONG, label: I-loc)  , and when there he haS frequently heard the subject of the boundary between the Creeks (WRONG, label: B-org)  and Cherokees (WRONG, label: B-org)  mentioned a - roongst tho people of that county , as running from the High Shoals of Ap (WRONG, label: B-loc)  ¬ (WRONG, label: I-loc)  palachy (WRONG, label: I-loc)  a direct course to the mouth of Will (WRONG, label: B-loc)  ’ (WRONG, label: I-loc)  s (WRONG, label: I-loc)  creek (WRONG, label: I-loc)  on Coosa (WRONG, label: B-loc)  river (WRONG, label: I-loc)  , and he alwavs received the same impression from the Cherokees . 
+---------------------------------------------------------------------
+297
+JAVIES (WRONG, label: B-pers)  DANIEL (WRONG, label: I-pers)  . 
+---------------------------------------------------------------------
+300
+We make a few extracts from our last New York papers on the late interesting occurrances in France (CORRECT, label: B-loc)  . 
+---------------------------------------------------------------------
+301
+Abdication of the (WRONG, label: B-pers)  King (WRONG, label: I-pers)  . 
+---------------------------------------------------------------------
+302
+' Monday , August 2 — Commission ¬ ers were sent to Rambouillet (WRONG, label: B-loc)  to treat with the (WRONG, label: B-pers)  King (CORRECT, label: I-pers)  , and alter some nego ¬ tiation he consented to abdicate , and the commissioners agreed that he should receive a liberal allowance for the support of himself and his family . 
+---------------------------------------------------------------------
+308
+Van (CORRECT, label: I-pers)  Buren (CORRECT, label: I-pers)  ’ s and Gen (WRONG, label: B-pers)  . (WRONG, label: I-pers)  Jackson (WRONG, label: I-pers)  ' s friends ; this heretofore odious name of the friends of popular rights , those candid federal whigs now take up and claim as their own . 
+---------------------------------------------------------------------
+313
+In one part of the “ address , ” these Harri (WRONG, label: B-pers)  ¬ (WRONG, label: I-pers)  son (WRONG, label: I-pers)  Democrats of Baltimore (WRONG, label: B-loc)  , ( brother ichigs of the Obseiver (WRONG, label: B-prod)  ) say “ from your ranks are to come the future rulers of thejland , makinglyou the guardians , in the western world of tru e Democracy ! n In this whole address to all the younglings ot federal whiggery in the union , calling on them to meat in convention at Baltimore (WRONG, label: B-loc)  in - May next , these Baltimore (WRONG, label: B-loc)  sprigs of the whiggery , do not , in the whole address we say , once use the term whig ! They leave it out altogether ; thereby showing that they have disgraced the name ; end . they have the un - b ushing effrontery , to call themselves and their Harrison party , Democrats ! It is not long since a whig meeting in this town , denied , in one ol thoir resolutions , that they w ’ ere “ Democrats . ” 
+---------------------------------------------------------------------
+315
+From the JTvrth (WRONG, label: B-prod)  Carolina (WRONG, label: I-prod)  Standard (CORRECT, label: I-prod)  . (WRONG, label: I-prod)  
+---------------------------------------------------------------------
+317
+The meeting was called to order by W (WRONG, label: B-pers)  . (WRONG, label: I-pers)  Stallings (WRONG, label: I-pers)  , (WRONG, label: I-pers)  Esq (CORRECT, label: I-pers)  . (CORRECT, label: I-pers)  , on whose motion , William (WRONG, label: B-pers)  W (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Cow (WRONG, label: I-pers)  - (CORRECT, label: I-pers)  per (WRONG, label: I-pers)  , (WRONG, label: I-pers)  Esq (WRONG, label: I-pers)  . (WRONG, label: I-pers)  , was called to the Chair ; and on motion of Rizup (WRONG, label: B-pers)  Rawles (CORRECT, label: I-pers)  , (WRONG, label: I-pers)  Esq (WRONG, label: I-pers)  . (WRONG, label: I-pers)  , W (CORRECT, label: B-pers)  . (WRONG, label: I-pers)  G (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Daugh (CORRECT, label: I-pers)  ¬ (CORRECT, label: I-pers)  try (CORRECT, label: I-pers)  , was appointed Secretary . 
+---------------------------------------------------------------------
+318
+The Chairman having explained the ob ¬ ject of the meeting , on motion of W (WRONG, label: B-pers)  . (WRONG, label: I-pers)  Stall (CORRECT, label: I-pers)  ¬ (WRONG, label: I-pers)  ings (WRONG, label: I-pers)  , (CORRECT, label: I-pers)  Esq (WRONG, label: I-pers)  . (CORRECT, label: I-pers)  
+---------------------------------------------------------------------
+319
+— Resolved , That the Chairman appoint a committee of seven to draft resolutions for the consideration of the meeting , expressive of the views and sense of the same—and the following gentlemen were appointed , viz : Rizup (WRONG, label: B-pers)  Rawls (WRONG, label: I-pers)  , (WRONG, label: I-pers)  Riddick (WRONG, label: B-pers)  Gatling (WRONG, label: I-pers)  , John (WRONG, label: B-pers)  W (WRONG, label: I-pers)  ’ (CORRECT, label: I-pers)  illey (CORRECT, label: I-pers)  , Lemuel (CORRECT, label: B-pers)  Riddick (WRONG, label: I-pers)  , Simon (WRONG, label: B-pers)  Walters (WRONG, label: I-pers)  , Benjamin (CORRECT, label: B-pers)  Ballard (CORRECT, label: I-pers)  , (WRONG, label: I-pers)  Esq (CORRECT, label: I-pers)  . (CORRECT, label: I-pers)  , and Dr (WRONG, label: B-pers)  . (WRONG, label: I-pers)  Richard (CORRECT, label: I-pers)  McIntosh (CORRECT, label: I-pers)  . 
+---------------------------------------------------------------------
+322
+Resolved , That we do not believe Martin (WRONG, label: B-pers)  Van (WRONG, label: I-pers)  Buren (WRONG, label: I-pers)  infallible , yet we believe the general tendency of his administration is well calculated to promote the good and happiness of this fiee country : therefore , we are deter ¬ mined to give him our cordial support for re - clection . 
+---------------------------------------------------------------------
+326
+Resolved , That Wm (CORRECT, label: B-pers)  . (CORRECT, label: I-pers)  
+---------------------------------------------------------------------
+327
+W (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Cowper (WRONG, label: I-pers)  , Whit (WRONG, label: B-pers)  - (WRONG, label: I-pers)  mell (WRONG, label: I-pers)  Stallings (WRONG, label: I-pers)  , Riddick (WRONG, label: B-pers)  Gatling (CORRECT, label: I-pers)  , John (WRONG, label: B-pers)  Willey (CORRECT, label: I-pers)  , Lemuel (CORRECT, label: B-pers)  Riddick (WRONG, label: I-pers)  , Rizup (CORRECT, label: B-pers)  Rawles (CORRECT, label: I-pers)  , Wm (CORRECT, label: B-pers)  . (CORRECT, label: I-pers)  
+---------------------------------------------------------------------
+328
+G (WRONG, label: I-pers)  . (CORRECT, label: I-pers)  Daughtry (WRONG, label: I-pers)  , David (CORRECT, label: B-pers)  Parker (CORRECT, label: I-pers)  , James (CORRECT, label: B-pers)  Parker (CORRECT, label: I-pers)  , Jos (CORRECT, label: B-pers)  . (CORRECT, label: I-pers)  
+---------------------------------------------------------------------
+329
+Riddick (CORRECT, label: I-pers)  , Simon (CORRECT, label: B-pers)  Walters (WRONG, label: I-pers)  , Robert (CORRECT, label: B-pers)  Rogers (WRONG, label: I-pers)  r Kirched (WRONG, label: B-pers)  Parker (WRONG, label: I-pers)  , James (CORRECT, label: B-pers)  Rogers (CORRECT, label: I-pers)  , Wm (CORRECT, label: B-pers)  . (WRONG, label: I-pers)  
+---------------------------------------------------------------------
+330
+Hanell (WRONG, label: I-pers)  , John (CORRECT, label: B-pers)  Riddick (WRONG, label: I-pers)  , Nathan (CORRECT, label: B-pers)  Riddick (CORRECT, label: I-pers)  , Nathan (CORRECT, label: B-pers)  Ward (CORRECT, label: I-pers)  , Wm (CORRECT, label: B-pers)  . (WRONG, label: I-pers)  
+---------------------------------------------------------------------
+331
+Goodman (CORRECT, label: I-pers)  , Abel (CORRECT, label: B-pers)  Rogerson (WRONG, label: I-pers)  , Rich (WRONG, label: B-pers)  ¬ (WRONG, label: I-pers)  ard (CORRECT, label: I-pers)  McIntosh (CORRECT, label: I-pers)  , Reuben (CORRECT, label: B-pers)  Lassiter (WRONG, label: I-pers)  , (CORRECT, label: I-pers)  John (CORRECT, label: B-pers)  Rawls (WRONG, label: I-pers)  , Bray (CORRECT, label: B-pers)  Parker (WRONG, label: I-pers)  , Benj (CORRECT, label: B-pers)  . (WRONG, label: I-pers)  
+---------------------------------------------------------------------
+333
+Ballard (CORRECT, label: I-pers)  , Riddick (CORRECT, label: B-pers)  Jones (WRONG, label: I-pers)  , Marmaduke (WRONG, label: B-pers)  Norfleet (WRONG, label: I-pers)  , Seth (WRONG, label: B-pers)  Norfleet (WRONG, label: I-pers)  , Jesse (CORRECT, label: B-pers)  Parker (CORRECT, label: I-pers)  , Red (CORRECT, label: B-pers)  ¬ (CORRECT, label: I-pers)  dick (CORRECT, label: I-pers)  Jones (CORRECT, label: I-pers)  , Asa (CORRECT, label: B-pers)  Hill (WRONG, label: I-pers)  , John (CORRECT, label: B-pers)  Mathews (WRONG, label: I-pers)  , James (CORRECT, label: B-pers)  Coster (CORRECT, label: I-pers)  , (WRONG, label: I-pers)  Sen (WRONG, label: I-pers)  . (WRONG, label: I-pers)  
+---------------------------------------------------------------------
+336
+Resolved , That the thanks of this meeting is due and are hereby tendered to YVhitmell (WRONG, label: B-pers)  Stallings (WRONG, label: I-pers)  , (WRONG, label: I-pers)  Esq (WRONG, label: I-pers)  . , for the faithful manner in which he has represented the wishes and in ¬ terest of his constituents , and that he is here ¬ by nominated for re - clection in the Com ¬ mons . 
+---------------------------------------------------------------------
+337
+Resolved , That Samuel (WRONG, label: B-pers)  T (WRONG, label: I-pers)  . (CORRECT, label: I-pers)  Sawyer (CORRECT, label: I-pers)  , (WRONG, label: I-pers)  Esq (WRONG, label: I-pers)  . (WRONG, label: I-pers)  , be nominated and recommended as a candi ¬ date to represent this District in the Senate of the next General Assembly . 
+---------------------------------------------------------------------
+339
+Resolved , That the North (WRONG, label: B-prod)  Carolina (CORRECT, label: I-prod)  Stan (CORRECT, label: I-prod)  ¬ (CORRECT, label: I-prod)  dard (WRONG, label: I-prod)  be requested to publish the above pro ^ ceedings . 
+---------------------------------------------------------------------
+342
+W (WRONG, label: I-pers)  . (CORRECT, label: I-pers)  COWPER (CORRECT, label: I-pers)  , (CORRECT, label: I-pers)  Chairman (CORRECT, label: I-pers)  . 
+---------------------------------------------------------------------
+359
+Be ^ in in time , and look ahead to the flection day in August , make your arrangements delihcr - ately , and be ready to teach your adversaries , when the day shall come , that your name is legion , in old North (WRONG, label: B-loc)  Carolina (WRONG, label: I-loc)  . 
+---------------------------------------------------------------------
+364
+It in needless to say that this is the way the federalists will do ; they always have done so “ — their voters never fail to be at the polls , whilst the democrats are very often too thronged with work to go to the election . Bear it in mind , That the democrats never have lost the con ¬ test when they ALL turned out to the elec ¬ tion . Dont forget this . Some men station themselves at the ballot box on the day of election , to brow - beat and over ¬ awe the poor men , who may happen to be IN DEBT to them . Democrats will you suffer this thing to be done ? No , you must never tamely bend to the tyrant oppressor ’ s yoke ! you must be permitted to vote precisely as you wish , * Unawetl by influence and tin - bribed by gain . ’ Stand at the Polls Until the ballot box is closed , and see that the infirm democrats nre not kept away from voting by the crowd . Men are employed in some places to block up the polls and keep the democrats away . AA ' atch well that the way is kept clear . DEMOCRATS , ORGANIZE ! ! ! DEMOCRATS of the OLD (WRONG, label: B-loc)  NORTH (WRONG, label: I-loc)  STATE (WRONG, label: I-loc)  VA (WRONG, label: I-loc)  c put a SOLEMN Question to you : ARE YOU PREPARED FOR THE BATTLE ? It “ comesoff ” in a very few weeks and you have but little time left for preparatory organ ¬ ization . 
+---------------------------------------------------------------------
+387
+I should express to its former patrons and friends my confidence , that in the hands of Mr (WRONG, label: B-pers)  . (WRONG, label: I-pers)  Spencer (WRONG, label: I-pers)  it will be conducted with ability and faithfulness , on the general plan heretofore pursued . 
+---------------------------------------------------------------------
+483
+0 (WRONG, label: B-pers)  . (WRONG, label: I-pers)  
+---------------------------------------------------------------------
+484
+F (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Suits (WRONG, label: I-pers)  trustee (WRONG, label: I-pers)  . 
+---------------------------------------------------------------------
+487
+Louis (CORRECT, label: I-prod)  Republic (CORRECT, label: I-prod)  bas the following to say in regard to Judge (WRONG, label: B-pers)  B (WRONG, label: I-pers)  urgess (WRONG, label: I-pers)  : “ Judge (WRONG, label: B-pers)  G (WRONG, label: I-pers)  . (WRONG, label: I-pers)  D (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Burgess (WRONG, label: I-pers)  , of Lin (WRONG, label: B-loc)  - (WRONG, label: I-loc)  neus (WRONG, label: I-loc)  , Mo (WRONG, label: B-loc)  . , candidate for the Demo ¬ cratic nomination for judge of the (WRONG, label: B-org)  supreme (WRONG, label: I-org)  court (WRONG, label: I-org)  , has been in the city for two days past shaking hands with the local politicians . Judge (WRONG, label: B-pers)  Burgess (WRONG, label: I-pers)  is not a stranger to the pol iticians of Missouri (WRONG, label: B-loc)  . He has made two good races for the nomination of his party convention , and each time was defeated by a small vote . He is very confi lent that he will he successful . He is a Kentuckian by birth and has the distinction of pre ¬ siding over the circuit courts ot a district in this state that has a Re ¬ publican majority of over 1,500 . He bas three years yet to serve on the circuit bench , and Democrats will have to hustle to find a man capable of stepping into his shoes in the Lin (WRONG, label: B-loc)  - (WRONG, label: I-loc)  neus (WRONG, label: I-loc)  district . ” 
+---------------------------------------------------------------------
+500
+S (WRONG, label: B-pers)  . (WRONG, label: I-pers)  H (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Clifford (WRONG, label: I-pers)  , New (CORRECT, label: B-loc)  Cassel (WRONG, label: I-loc)  , (WRONG, label: I-loc)  Wis (WRONG, label: I-loc)  . (WRONG, label: I-loc)  , was troubled with neuralgia and rheumatism , his stomach was disor ¬ dered , bis liver was affected to an alarming degree , appetite fell away and he was terribly reduced in flesb and strength . 
+---------------------------------------------------------------------
+502
+Edward (CORRECT, label: B-pers)  Shepherd (CORRECT, label: I-pers)  , Harrisburg (CORRECT, label: B-loc)  , (CORRECT, label: I-loc)  III (CORRECT, label: I-loc)  . (CORRECT, label: I-loc)  
+---------------------------------------------------------------------
+504
+Used three bottles of Electric Bitters and seven boxes of Bucklen (WRONG, label: B-org)  ’ s Arnica Salve , and bis leg is sound and well . 
+---------------------------------------------------------------------
+506
+One bottle of Electric Bitters and one box of Buckien (CORRECT, label: B-org)  ’ s Arnica Salve cured him entirely . 
+---------------------------------------------------------------------
+516
+This bear , dear reader , is high prices , and Stephens (WRONG, label: B-org)  & (WRONG, label: I-org)  Trammel (WRONG, label: I-org)  are the men who killed him . 
+---------------------------------------------------------------------
+531
+We have exclusive sale of Hart (CORRECT, label: B-org)  , (WRONG, label: I-org)  Schafiner (WRONG, label: I-org)  & (WRONG, label: I-org)  Marx (CORRECT, label: I-org)  Clothing (WRONG, label: I-org)  , celebrated throughout the (WRONG, label: B-loc)  U (WRONG, label: I-loc)  . (CORRECT, label: I-loc)  S (WRONG, label: I-loc)  . (WRONG, label: I-loc)  for its magic fitting , superior workmanship and durability ; it keeps its shape and fits until worn out . 
+---------------------------------------------------------------------
+535
+Stephens (CORRECT, label: B-org)  & (CORRECT, label: I-org)  Trammel (CORRECT, label: I-org)  , Salisbury (CORRECT, label: B-loc)  . 
+---------------------------------------------------------------------
+543
+The notorious leader of the infamous “ Black Jack ' s ” gang of train robbeis and murderers , Tom (WRONG, label: B-pers)  Ketchum (WRONG, label: I-pers)  , now lies ia the hospital of the penitentiary at Santa (CORRECT, label: B-loc)  Fe (WRONG, label: I-loc)  , (WRONG, label: I-loc)  N (WRONG, label: I-loc)  . (WRONG, label: I-loc)  M (WRONG, label: I-loc)  . , seriously wounded , as the result of an encounter with offi ¬ cers of the law . 
+---------------------------------------------------------------------
+546
+The place selected was near Fulsom (CORRECT, label: B-loc)  , on the northeast corner of New (CORRECT, label: B-loc)  Mexico (CORRECT, label: I-loc)  . 
+---------------------------------------------------------------------
+548
+When the train slowed down Tom (WRONG, label: B-pers)  Ketchum (WRONG, label: I-pers)  jumped into the cab and , carelessly swinging a 45 Colt near the engineer ' s nose , told him to obey all orders given during the next few minutes . 
+---------------------------------------------------------------------
+629
+Decovi (WRONG, label: B-pers)  was un - j conscious when found . 
+---------------------------------------------------------------------
+635
+The cost of saving the (WRONG, label: B-org)  Union (WRONG, label: I-org)  was fearful . 
+---------------------------------------------------------------------
+644
+A large part of Bryan (CORRECT, label: B-pers)  ’ (WRONG, label: I-pers)  s St (WRONG, label: B-loc)  . (WRONG, label: I-loc)  Louis (WRONG, label: I-loc)  audience on Saturday night left the hall long before he got through talk ¬ ing . This is ominous . 
+---------------------------------------------------------------------
+648
+In the first place , the curiosity which led persons to go and see Bryan (CORRECT, label: B-pers)  four years ago is necessarily less active now . 
+---------------------------------------------------------------------
+649
+In the second place , the chances of ills election are much fainter now than they seemed to be in (WRONG, label: B-time)  1800 (WRONG, label: I-time)  . 
+---------------------------------------------------------------------
+650
+In the third place , the country is getting tired of his continual menace to business and prosperity by Bryan (CORRECT, label: B-pers)  ' s free silver movement . 
+---------------------------------------------------------------------
+651
+This year will see the end of Bryan (CORRECT, label: B-pers)  and Bryauism (CORRECT, label: B-prod)  . 
+---------------------------------------------------------------------
+662
+CT he K (WRONG, label: B-loc)  ^ (WRONG, label: I-loc)  iotua (WRONG, label: I-loc)  Ghost “ Dance . 
+---------------------------------------------------------------------
+670
+A (WRONG, label: B-pers)  . (WRONG, label: I-pers)  C (WRONG, label: I-pers)  . (WRONG, label: I-pers)  MATTEE.SON (CORRECT, label: I-pers)  DEAD Well Known Farmer Passes Away AfUr Much Suffering—Fu ¬ neral on Wedding An ¬ niversary . 
+---------------------------------------------------------------------
+672
+After enduring weeks of suffering in the hospital at Moscow (WRONG, label: B-loc)  , , with no hopes of relief ex ¬ cept in death . 
+---------------------------------------------------------------------
+673
+Mr (WRONG, label: B-pers)  . (CORRECT, label: I-pers)  Matterson (CORRECT, label: I-pers)  passed to the great unknown last Sunday at ! 
+---------------------------------------------------------------------
+674
+) o ’ clock , and the funeral was held in Pullman (CORRECT, label: B-loc)  Monday afternoon . 
+---------------------------------------------------------------------
+677
+Mr (WRONG, label: B-pers)  . (WRONG, label: I-pers)  Matterson (WRONG, label: I-pers)  was a respected member of - the local Masonic lodge . 
+---------------------------------------------------------------------
+682
+He worked for Dan (WRONG, label: B-pers)  ¬ (CORRECT, label: I-pers)  iel (WRONG, label: I-pers)  Struppler (WRONG, label: I-pers)  for several years and married Mr (WRONG, label: B-pers)  . (CORRECT, label: I-pers)  Struppler (WRONG, label: I-pers)  ’ s daughter . 
+---------------------------------------------------------------------
+695
+It is difficult to understand why in Canada (CORRECT, label: B-loc)  , a country as wide as the l 11 it eel States and far less densely popidated , the govern ¬ ment . 
+---------------------------------------------------------------------
+697
+It is equally hard to comprehend how the express companies can handle packages at less rates than the (WRONG, label: B-org)  post (WRONG, label: I-org)  office (WRONG, label: I-org)  department (WRONG, label: I-org)  and still be able to declare dividends running as high as 300 per cent . 
+---------------------------------------------------------------------
+700
+John (CORRECT, label: B-pers)  Brisben (CORRECT, label: I-pers)  Walker (CORRECT, label: I-pers)  discusses several of these questions in an analysis of postal conditions pre ¬ pared for the (WRONG, label: B-org)  American (WRONG, label: I-org)  Newspa (WRONG, label: I-org)  ¬ (WRONG, label: I-org)  per (WRONG, label: I-org)  Publishers (WRONG, label: I-org)  ’ (WRONG, label: I-org)  Association (WRONG, label: I-org)  , in which he says in part : “ The average express haul to ¬ day is less than thirty - eight miles . This is because trade is largely carried on with those living near by . “ If the government carried par ¬ cels at even one cent a pound it would get the hundreds of mil ¬ lions of packages sent out by the great , dry - goods houses . This would probably reduce ‘ the aver ¬ age haul ’ to twenty miles or less . “ The (WRONG, label: B-org)  United (WRONG, label: I-org)  States (WRONG, label: I-org)  Govern (WRONG, label: I-org)  ¬ (WRONG, label: I-org)  ment (WRONG, label: I-org)  is already equipped with more than 60,000 completely or ¬ ganized stations . These have their managers and clerks , their ren ¬ tals . heat , and light , their detec ¬ tive and legal services already paid for . To handle parcels would cost nothing additional in tens of thousands of post offices except the wagon haul in the lo ¬ cality . . . putting all into one class and ac ¬ cepting packages up to 200 pounds weight . ” “ The government is spending more than $32,000,000 annually on a country delivery service , which the Postmaster General re ¬ ports as carrying only 25 pounds per trip per wagon . 
+---------------------------------------------------------------------
+706
+j (CORRECT, label: I-org)  . (CORRECT, label: I-org)  
+---------------------------------------------------------------------
+707
+SCHERK (WRONG, label: I-org)  . (WRONG, label: I-org)  
+---------------------------------------------------------------------
+709
+THE (WRONG, label: B-loc)  NORTHWEST (WRONG, label: I-loc)  Captain (CORRECT, label: B-pers)  T (CORRECT, label: I-pers)  . (WRONG, label: I-pers)  D (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Bloni (CORRECT, label: I-pers)  , prominent in shipping circles and head of a codfish company , was found in Wright (WRONG, label: B-loc)  park (WRONG, label: I-loc)  , in the heart of the city of Tacotna (WRONG, label: B-loc)  , last , week , with his throat cut . 
+---------------------------------------------------------------------
+716
+C (WRONG, label: I-pers)  . (WRONG, label: I-pers)  Wendell (WRONG, label: I-pers)  located in the sub ¬ urbs of Portland (WRONG, label: B-loc)  , Myrtle (WRONG, label: B-pers)  Wendell (CORRECT, label: I-pers)  , aged 2 years , was burned to death , and Laura (WRONG, label: B-pers)  Ellis (WRONG, label: I-pers)  , a domestic , aged IS years , was so badly burned that she died a few minutes after she reached the hospital . 
+---------------------------------------------------------------------
+849
+Cookeville (WRONG, label: B-loc)  is the best all around town you can find , and far above the average for its size . 
+---------------------------------------------------------------------
+855
+If you want a nice , fresh mess of steak , or other meats or groceries , go to Wilhite (WRONG, label: B-org)  , (WRONG, label: I-org)  ft (WRONG, label: I-org)  Foutoh (WRONG, label: I-org)  Bros (WRONG, label: I-org)  . (WRONG, label: I-org)  , as they know bow to cut meat , and have a nice , sanitary shop . 
+---------------------------------------------------------------------
+856
+If you want theb est little paper printel in the United (WRONG, label: B-loc)  Stat (CORRECT, label: I-loc)  - (WRONG, label: I-loc)  s (WRONG, label: I-loc)  just sub ¬ scribe for the Putnam (WRONG, label: B-prod)  County (WRONG, label: I-prod)  Her (CORRECT, label: I-prod)  ¬ (WRONG, label: I-prod)  ald (WRONG, label: I-prod)  . 
+---------------------------------------------------------------------
+861
+Call on the old times , D (CORRECT, label: B-pers)  . (WRONG, label: I-pers)  A (WRONG, label: I-pers)  . (WRONG, label: I-pers)  RAWLEY (CORRECT, label: I-pers)  . 
+---------------------------------------------------------------------
+863
+THINGS TO DO ON THE FARM IN NOVEMBER November , is a busy time for Ten (WRONG, label: B-time)  nessee (WRONG, label: I-time)  farmers and trieir wives . 
+---------------------------------------------------------------------
+1021
+Saturday , July 2 , in the Tabor (CORRECT, label: B-loc)  City (CORRECT, label: I-loc)  Baptist (CORRECT, label: I-loc)  Church (CORRECT, label: I-loc)  . 
+---------------------------------------------------------------------
+1023
+Ensign (WRONG, label: B-pers)  Currie (WRONG, label: I-pers)  is a graduate of the (WRONG, label: B-org)  United (CORRECT, label: I-org)  States (CORRECT, label: I-org)  Naval (CORRECT, label: I-org)  Academy (CORRECT, label: I-org)  , Annapolis (CORRECT, label: B-loc)  . 
+---------------------------------------------------------------------
+1030
+SCOUT BASEBALL The Cub (CORRECT, label: B-org)  Scouts (WRONG, label: I-org)  will meet again Friday in Basebball at Uivitan (WRONG, label: B-loc)  Field (CORRECT, label: I-loc)  , at 5 : 30 p . 
+---------------------------------------------------------------------
+1032
+bast week Bill (WRONG, label: B-pers)  Grainger (CORRECT, label: I-pers)  ' s team tion over the Mackey (WRONG, label: B-org)  Sarvis (CORRECT, label: I-org)  players with a srore 3 - 1 said Cub (CORRECT, label: B-pers)  Master (WRONG, label: I-pers)  Richard (CORRECT, label: I-pers)  Gprcion (WRONG, label: I-pers)  . 
+---------------------------------------------------------------------
+1033
+The puhiir is invited to join the boys in this recreation and sportsmanship Gordon (CORRECT, label: B-pers)  added . 
+---------------------------------------------------------------------
+1035
+The man who took it for ¬ got where he had left it and police had to tour a large part of Dillon (WRONG, label: B-loc)  county (WRONG, label: I-loc)  before he recognized a road and said . 
+---------------------------------------------------------------------
+1038
+Rt (WRONG, label: B-loc)  . (WRONG, label: I-loc)  2 (WRONG, label: I-loc)  . 
+---------------------------------------------------------------------
+1039
+’ (WRONG, label: B-loc)  ’ (WRONG, label: I-loc)  ' (WRONG, label: I-loc)  bor (WRONG, label: I-loc)  City (CORRECT, label: I-loc)  . 
+---------------------------------------------------------------------
+1040
+Charged with its was a man identified h.v lice as James (CORRECT, label: B-pers)  Roberson (CORRECT, label: I-pers)  . 
+---------------------------------------------------------------------
