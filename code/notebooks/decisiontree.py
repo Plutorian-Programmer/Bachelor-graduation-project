@@ -89,13 +89,14 @@ class cls_node():
 class custom_decision_tree():
 
 
-    def __init__(self, features, labels, continious_size = 10, discrete_idx_list = [], min_samples = 2, method = "entropy", print_progress = True, max_features = None, weight = 0.5):
+    def __init__(self, features, labels, continious_size = 10, discrete_idx_list = [], min_samples = 2, max_depth = np.inf, method = "entropy", print_progress = True, max_features = None, weight = 0.5):
         self.feature_matrix = features
         self.label_vector = labels
         self.continious_size = continious_size
         self.discrete_idx_list = discrete_idx_list
         self.split_values = []
         self.min_samples = min_samples
+        self.max_depth = max_depth
         self.labaled_idx = 0
         self.progress = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1]
         self.total_labels = len(labels)
@@ -270,7 +271,7 @@ class custom_decision_tree():
         return best_idx, best_type, best_values, suggested_split
     
 
-    def build_node(self, idx_list, node, sugested_split):
+    def build_node(self, idx_list, node, sugested_split, depth):
         feature_idx = node.feature_idx
         i = 0
         while True:
@@ -306,11 +307,15 @@ class custom_decision_tree():
             if len(temp_idx_list) < self.min_samples:    
                 node.children[i] = {"best_guess" : best_guess, "prob": prob}
                 self.labaled_idx += len(temp_idx_list)
+            #when tree reaches max depth create a leaf node
+            elif depth > self.max_depth:
+                node.children[i] = {"best_guess" : best_guess, "prob": prob}
+                self.labaled_idx += len(temp_idx_list)
             #if the score is 0 that means that the split only contains 1 label so you can create a leaf node
             elif score == 0:
                 node.children[i] = {"best_guess": best_guess, "prob": prob}
                 self.labaled_idx += len(temp_idx_list)
-            #if the above two cases don't hold find the best split
+            #if the above three cases don't hold find the best split
             else:
                 temp_idx, node_type, split_values, new_sugested_split = self.find_best_split(temp_idx_list, label_list, sugested_split)
                 if node_type == "leaf":
@@ -321,7 +326,7 @@ class custom_decision_tree():
                 
                 #after finding the best split build new node using current split
                 temp_node = cls_node(temp_idx, best_guess, score, split_values, node_type, prob)
-                temp_node = self.build_node(temp_idx_list.copy(),temp_node, new_sugested_split)
+                temp_node = self.build_node(temp_idx_list.copy(),temp_node, new_sugested_split, depth = depth + 1)
                 node.children[i] = temp_node
             
             #print statement to check progress
@@ -341,7 +346,7 @@ class custom_decision_tree():
         entropy, best_guess = self.calc_score(label_list)
         #build the tree recursively. 
         self.tree = cls_node(best_idx, best_guess, entropy, split_values, node_type, prob)
-        self.tree = self.build_node(idx_list.copy(), self.tree, sugested_split)
+        self.tree = self.build_node(idx_list.copy(), self.tree, sugested_split, 1)
 
 class random_forest():
     def __init__(self, features, labels, continious_size = 10, discrete_idx_list = [], min_samples = 2, method = "entropy", print_progress = True):
